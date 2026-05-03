@@ -1,3 +1,7 @@
+<img width="1280" height="853" alt="image" src="https://github.com/user-attachments/assets/24c7f759-e17c-46ff-a4e4-88e7f2d34f23" />
+
+
+
 🖼️ NumPy Image Processing Engine
 📌 Overview
 This project demonstrates how core image processing operations can be implemented from scratch using NumPy, without relying on high-level image processing libraries.
